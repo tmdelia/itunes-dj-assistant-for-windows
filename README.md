@@ -13,7 +13,7 @@ Perfect for tango DJs, music educators, dancers, and anyone who wants visual fee
 
 ## 📥 Download
 
-**[Download Latest Release →](https://github.com/yourusername/itunes-dj-assistant-for-windows/releases/latest)**
+**[Download Latest Release →](https://github.com/tmdelia/itunes-dj-assistant-for-windows/releases/latest)**
 
 Pre-built executable available - no Python installation needed!
 
@@ -52,7 +52,7 @@ Real-time activity log with all monitoring events displayed in an easy-to-read f
 
 **No Python installation required!**
 
-1. Go to [**Releases**](https://github.com/yourusername/itunes-dj-assistant-for-windows/releases)
+1. Go to [**Releases**](https://github.com/tmdelia/itunes-dj-assistant-for-windows/releases)
 2. Download the latest `iTunes-DJ-Assistant-vX.X.X-Windows.zip`
 3. Extract the ZIP file to any folder
 4. Run `iTunes DJ Assistant.exe`
